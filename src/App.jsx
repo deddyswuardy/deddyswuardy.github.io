@@ -77,10 +77,10 @@ function App() {
             </h1>
 
             <p className="hero-description">
-              Pendampingan dan layanan hukum secara profesional
+              Pendampingan dan layanan hukum secara profesional di Garut
               dengan pendekatan yang mengutamakan kepentingan
               serta kebutuhan klien.
-            </p>
+           </p>
 
             <div className="hero-actions">
               <a
