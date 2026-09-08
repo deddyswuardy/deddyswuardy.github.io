@@ -68,7 +68,7 @@ function App() {
 
           <div className="container hero-content">
             <div className="hero-badge">
-              KANTOR HUKUM & ADVOKAT
+              KANTOR HUKUM & ADVOKAT DI GARUT
             </div>
 
             <h1>
