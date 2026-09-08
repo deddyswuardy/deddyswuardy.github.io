@@ -2,7 +2,7 @@ import { useState } from 'react'
 import logoKantor from './assets/logo-kantor.jpg'
 import fotoUser from './assets/foto-user.jpg'
 import fotoKantor1 from './assets/foto-kantor-1.jpg'
-import fotoKantor2 from './assets/foto-kantor-2.jpg'
+import fotoKantor2 from './assets/foto-kantor-2.jpeg'
 import fotoKantor3 from './assets/foto-kantor-3.jpg'
 import fotoKantor4 from './assets/foto-kantor-4.jpg'
 import './App.css'
@@ -438,7 +438,7 @@ function App() {
 
               <div className="gallery-item">
                 <img
-                  src={fotoKantor4}
+                  src="/papan-kantor-tegak.jpg"
                   alt="Kegiatan Kantor Deddy Suwardy Surachman"
                 />
               </div>
