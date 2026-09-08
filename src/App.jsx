@@ -141,9 +141,9 @@ function App() {
               <span className="section-label">TENTANG KAMI</span>
               <h2>Profesional dalam Setiap Pendampingan</h2>
               <p>
-                Mengenal lebih dekat kantor hukum dan layanan yang
-                kami hadirkan untuk kebutuhan masyarakat.
-              </p>
+                Mengenal lebih dekat kantor hukum dan layanan hukum yang
+                kami hadirkan untuk kebutuhan masyarakat di Garut dan sekitarnya.
+             </p>
             </div>
 
             <div className="about-grid">
