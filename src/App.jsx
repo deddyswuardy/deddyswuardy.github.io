@@ -503,10 +503,10 @@ function App() {
                 <span className="section-label">HUBUNGI KAMI</span>
                 <h2>Butuh Konsultasi Hukum?</h2>
                 <p>
-                  Hubungi kantor kami untuk mendapatkan informasi
-                  lebih lanjut mengenai kebutuhan konsultasi dan
-                  layanan hukum.
-                </p>
+                  Hubungi kantor hukum kami di Garut untuk mendapatkan
+                  informasi mengenai konsultasi, pendampingan, dan
+                  layanan hukum sesuai kebutuhan Anda.
+               </p>
 
                 <a
                   href="https://wa.me/6285852840892?text=Halo%20Pak%20Deddy%2C%20saya%20ingin%20berkonsultasi%20mengenai%20permasalahan%20hukum.%20Mohon%20informasi%20dan%20arahannya.%20Terima%20kasih."
