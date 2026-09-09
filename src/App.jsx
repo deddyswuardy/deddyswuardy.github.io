@@ -265,9 +265,10 @@ function App() {
                 <div className="service-icon">§</div>
                 <h3>Hukum Perdata</h3>
                 <p>
-                  Layanan dan pendampingan yang berkaitan dengan
-                  perkara serta permasalahan hukum perdata.
-                </p>
+                  Layanan dan pendampingan hukum perdata untuk membantu
+                  menangani berbagai perkara serta permasalahan hukum
+                  bagi masyarakat di Garut dan sekitarnya.
+               </p>
                 <a href="#kontak">Konsultasikan →</a>
               </article>
 
@@ -276,9 +277,10 @@ function App() {
                 <div className="service-icon">⚖</div>
                 <h3>Hukum Pidana</h3>
                 <p>
-                  Pendampingan dan konsultasi terkait permasalahan
-                  serta perkara hukum pidana.
-                </p>
+                  Pendampingan dan konsultasi hukum pidana untuk membantu
+                  menangani berbagai permasalahan serta perkara hukum
+                  bagi masyarakat di Garut dan sekitarnya.
+              </p>
                 <a href="#kontak">Konsultasikan →</a>
               </article>
 
@@ -287,9 +289,10 @@ function App() {
                 <div className="service-icon">◇</div>
                 <h3>Hukum Keluarga</h3>
                 <p>
-                  Konsultasi dan pendampingan dalam berbagai
-                  persoalan hukum yang berkaitan dengan keluarga.
-                </p>
+                  Konsultasi dan pendampingan hukum keluarga untuk membantu
+                  menangani berbagai persoalan hukum keluarga bagi
+                  masyarakat di Garut dan sekitarnya.
+               </p>
                 <a href="#kontak">Konsultasikan →</a>
               </article>
 
@@ -298,8 +301,9 @@ function App() {
                 <div className="service-icon">⌂</div>
                 <h3>Pertanahan</h3>
                 <p>
-                  Konsultasi dan pendampingan terkait berbagai
-                  persoalan hukum di bidang pertanahan.
+                  Konsultasi dan pendampingan hukum pertanahan untuk membantu
+                  menangani berbagai persoalan tanah dan sengketa pertanahan
+                  di Garut dan sekitarnya.
                 </p>
                 <a href="#kontak">Konsultasikan →</a>
               </article>
