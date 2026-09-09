@@ -524,7 +524,7 @@ function App() {
                  rel="noreferrer"
                  className="button button-gold"
                 >
-                 TikTok Pak Haji
+                 TikTok Kami
               </a>
               </div>
 
