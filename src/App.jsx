@@ -320,9 +320,10 @@ function App() {
               <span className="section-label">KONSULTASI HUKUM</span>
               <h2>Memiliki persoalan hukum?</h2>
               <p>
-                Sampaikan kebutuhan Anda dan lakukan konsultasi
-                melalui WhatsApp.
-              </p>
+                Konsultasikan kebutuhan hukum Anda bersama advokat
+                di Garut melalui WhatsApp untuk mendapatkan informasi
+                dan pendampingan sesuai kebutuhan.
+             </p>
             </div>
 
             <a
