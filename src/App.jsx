@@ -444,7 +444,7 @@ function App() {
               <div className="gallery-item">
                 <img
                   src="/papan-kantor-tegak.jpg"
-                  alt="Kegiatan Kantor Deddy Suwardy Surachman"
+                  alt="Papan nama Kantor Hukum Deddy Suwardy Surachman di Garut"
                 />
               </div>
             </div>
