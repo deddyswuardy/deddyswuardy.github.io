@@ -346,9 +346,9 @@ function App() {
               <span className="section-label">BERITA & ARTIKEL</span>
               <h2>Informasi Hukum</h2>
               <p>
-                Ruang untuk berbagi informasi, edukasi, dan artikel
-                hukum yang bermanfaat bagi masyarakat.
-              </p>
+                Ruang untuk berbagi informasi, edukasi, dan artikel hukum
+                yang bermanfaat bagi masyarakat di Garut dan sekitarnya.
+             </p>
             </div>
 
             <div className="articles-grid">
