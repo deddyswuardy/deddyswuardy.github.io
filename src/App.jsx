@@ -514,11 +514,21 @@ function App() {
                   rel="noreferrer"
                   className="button button-gold"
                 >
-                  WhatsApp Kami
-                </a>
+                
+                WhatsApp Kami
+                 </a>
+
+               <a
+                 href="https://www.tiktok.com/@deddysuwardyy"
+                 target="_blank"
+                 rel="noreferrer"
+                 className="button button-gold"
+                >
+                 TikTok Pak Haji
+              </a>
               </div>
 
-              <div className="contact-info">
+            <div className="contact-info">
 
                 <div className="contact-item">
                   <span className="contact-icon">⌂</span>
