@@ -40,13 +40,14 @@ function App() {
             <a href="#lokasi">Lokasi</a>
             <a href="#kontak">Kontak</a>
           </nav>
+          
           <button
-          className="menu-toggle"
-          onClick={() => setMenuOpen(!menuOpen)}
-          aria-label="Buka menu navigasi"
-        >
-          ☰
-        </button>
+            className="menu-toggle"
+            onClick={() => setMenuOpen(!menuOpen)}
+            aria-label={menuOpen ? "Tutup menu navigasi" : "Buka menu navigasi"}
+          >
+            {menuOpen ? "✕" : "☰"}
+          </button>
 
           <a
             href="https://wa.me/6285852840892"
