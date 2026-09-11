@@ -482,7 +482,7 @@ function App() {
 
     <div className="maps-action">
       <a
-        href="https://maps.app.goo.gl/1z4qgq7rcUC36YkTA"
+        href="https://maps.app.goo.gl/VjWPoDiaSZRpq7if6?g_st=ac"
         target="_blank"
         rel="noreferrer"
         className="button button-gold"
