@@ -469,7 +469,7 @@ function App() {
 
     <div className="maps-wrapper">
       <iframe
-        src="https://www.google.com/maps?q=Jalan+Panday+No.1,+Cimanganten,+Tarogong+Kaler,+Garut&output=embed"
+        src="https://www.google.com/maps?q=Jl.+Terusan+Panday+No.1,+Langensari,+Kec.+Tarogong+Kaler,+Kabupaten+Garut,+Jawa+Barat+44151&output=embed"
         width="100%"
         height="420"
         style={{ border: 0 }}
